@@ -8,6 +8,7 @@ public class Pydi {
 		
 		System.out.println("X =" + new Pydi().x);
 		System.out.println("X =" + new Pydi().x);
+		System.out.println("X =" + new Pydi().x);
 		
 	}
 
