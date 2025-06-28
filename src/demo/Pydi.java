@@ -2,7 +2,7 @@ package demo;
 
 public class Pydi {
 	
-	int x=42;
+	int x=52;
 
 	public static void main(String[] args) {
 		
